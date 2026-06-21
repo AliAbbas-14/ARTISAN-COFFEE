@@ -43,7 +43,7 @@ npm run db:setup
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open (https://coffee-nu-jade.vercel.app/)
 
 **Important:** Run the app with `npm run dev`. Do not open HTML files directly — API routes, login, and the database require the Next.js server.
 
