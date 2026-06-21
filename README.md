@@ -18,34 +18,13 @@ Full-stack coffee shop app with customer and admin roles, built with Next.js 14,
 
 ## Demo accounts
 
-- **Admin:** `admin@artisancoffee.com` / `admin123`
-- **Customer:** `customer@artisancoffee.com` / `customer123`
+- **Admin:** `chaliabbas1065@gmail.com` / `admin123`
+- **Customer:** `alimahi4540@gmail.com` / `customer123`
 
 ## Setup
-
-1. Install dependencies:
-
-```bash
-npm install
+ 
 ```
-
-2. Set up the database:
-
-```bash
-npm run db:setup
-```
-
-3. Add assets to `public/coffee/` and animation frames to `public/frames/` (see original README notes).
-
-4. Start the dev server:
-
-```bash
-npm run dev
-```
-
-Open (https://coffee-nu-jade.vercel.app/)
-
-**Important:** Run the app with `npm run dev`. Do not open HTML files directly — API routes, login, and the database require the Next.js server.
+ https://coffee-nu-jade.vercel.app/
 
 ## Tech stack
 
